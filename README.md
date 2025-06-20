@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-## Leet code
+## 🏆 Leet code
 ![](https://Leetcode-profile-trophy.vercel.app/?username=Ashishku15&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
