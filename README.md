@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on:<br>Full-stack applications using React.js, Node.js, MongoDB, and AWS, with a focus on performance optimization and CI/CD automation.<br><br>I'm looking to collaborate on:<br>Exciting product-based projects, real-time apps, or open-source tools that solve real-world problems.<br><br>I'm looking for help with:<br>Advanced cloud infrastructure (AWS), system design.<br><br>I'm currently learning :<br>scalable system architecture, and AI tools to enhance development workflows.<br><br>Ask me about:<br>React.js best practices, backend API development with Node.js, MongoDB schema design, or setting up efficient CI/CD pipelines.<br><br>Fun fact:<br>I once built a real-time chat app over a weekend just for fun—and it still runs live with active users!
+👨‍💻 I'm currently working on:<br>Full-stack applications using React.js, Node.js, MongoDB, and AWS, focusing on performance optimization and CI/CD automation.<br><br>🤝 I'm looking to collaborate on:<br>Exciting product-based projects, real-time apps, or open-source tools that solve real-world problems.<br><br>🆘 I'm looking for help with:<br>Advanced cloud infrastructure (AWS) and system design.<br><br>📚 I'm currently learning:<br>Scalable system architecture and AI tools to enhance development workflows.<br><br>💬 Ask me about:<br>React.js best practices, Node.js API development, MongoDB schema design, or setting up efficient CI/CD pipelines.<br><br>🤯 Fun fact:<br>I once built a real-time chat app over a weekend just for fun—and it still runs live with active users!
 
 
 ## 🌐 Socials:
@@ -13,13 +13,16 @@ I'm currently working on:<br>Full-stack applications using React.js, Node.js, Mo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## Leet code
+![](https://Leetcode-profile-trophy.vercel.app/?username=Ashishku15&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashishku1502&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ashishku1502&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashishku1502&icon=0&color=0)](https://visitcount.itsvg.in)
