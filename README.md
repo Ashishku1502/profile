@@ -12,6 +12,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ashishku1502&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishku1502&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 Leetcode Stats:
+![](https://Leetcode-readme-stats.vercel.app/api?username=Ashishku15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ashishku15&theme=dark&hide_border=false)<br/>
+![](https://Leetcode-readme-stats.vercel.app/api/top-langs/?username=Ashishku15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashishku1502&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
